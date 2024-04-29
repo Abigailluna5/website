@@ -178,11 +178,11 @@ textarea:valid~label{
 }
 .box-10{
  text-align: center;
- color: white;
+ color:black;
 }
 .maincontainer{
     margin: 0 auto;
-    width: 1200px;
+    width: 1300px;
 }
 .about{
     text-align: center
@@ -193,7 +193,7 @@ textarea:valid~label{
 }
 .mainabout{
     margin: 0 auto;
-    width: 1200px;
+    width: 1300px;
 }
 .box-11{
     text-align: center;
