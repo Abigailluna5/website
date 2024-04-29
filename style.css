@@ -328,7 +328,7 @@ textarea:valid~label{
     max-width: 300px;
     margin: auto;
     text-align: center;
-    font-family: arial;
+    font-family: fantasy;
   }
   
   .price {
