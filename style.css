@@ -352,3 +352,10 @@ textarea:valid~label{
     opacity: 0.7;
   }
   
+.bg{
+    
+    width: 1000px;
+    background-image: linear-gradient(moccasin,bisQue);
+    
+    
+}
