@@ -204,15 +204,13 @@ textarea:valid~label{
 }
 .container-9{
     display: flex;
-    background-color: burlywood;
+    padding: 10px;
 }
 .container-9 > div {
-    background-color: #f1f1f1;
-    width: 200px;
-    margin: 10px;
-    text-align: center;
-    line-height: 50px;
-    font-size: 30px;
+ padding: 5px;
+ width: 300px;
+ border-radius: 5px;
+ display: inline-block;
 }
 
 .card {
