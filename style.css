@@ -353,7 +353,7 @@ textarea:valid~label{
   }
   
 .bg{
-    
+    margin: 0 auto;
     width: 1000px;
     background-image: linear-gradient(moccasin,bisQue);
     
