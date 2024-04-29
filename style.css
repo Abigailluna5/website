@@ -204,15 +204,14 @@ textarea:valid~label{
 }
 .container-9{
     display: flex;
-    flex-wrap: wrap;
     background-color: burlywood;
 }
-.flex-container > div {
+.container-9 > div {
     background-color: #f1f1f1;
-    width: 100px;
+    width: 200px;
     margin: 10px;
     text-align: center;
-    line-height: 75px;
+    line-height: 50px;
     font-size: 30px;
 }
 
